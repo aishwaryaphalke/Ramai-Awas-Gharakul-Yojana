@@ -1,0 +1,32 @@
+ #firstDiv{
+     
+    margin-right: 20px; 
+    background-color: lightblue;
+} 
+
+#topnavbar{
+    background-color:rgb(154, 216, 236)
+}
+
+#title{
+    padding: 10px; 
+    background-color:white;
+}
+
+#title h1{
+    text-align: center; 
+    color: rgb(139, 32, 32);
+}
+
+#title h6{
+    text-align: center;
+}
+
+.card-body{
+    padding: 10px;
+}
+
+.card-title{
+    text-align: center; 
+    color: rgb(139, 32, 32);
+}
